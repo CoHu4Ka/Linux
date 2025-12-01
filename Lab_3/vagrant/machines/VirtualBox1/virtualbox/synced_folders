@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/vm1_data":{"type":"virtualbox","guestpath":"/home/vagrant/vm1_data","hostpath":"C:/Users/stasi/source/repos/USMUniversity/YearThree/SMAI_IT/Lab3/vm1_data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/stasi/source/repos/USMUniversity/YearThree/SMAI_IT/Lab3","disabled":false,"__vagrantfile":true}}}
